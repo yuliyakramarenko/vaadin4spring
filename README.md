@@ -1,4 +1,4 @@
-Vaadin4Spring Extensions and Addons [![Build Status](https://travis-ci.org/yuliyakramarenko/vaadin4spring.svg)](https://travis-ci.org/yuliyakramarenko/vaadin4spring)
+Vaadin4Spring Extensions and Addons
 ===================================
 
 This project started as a prototype of an official Vaadin Spring add-on. Now there is [one](http://github.com/vaadin/spring)
